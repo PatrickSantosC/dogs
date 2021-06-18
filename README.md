@@ -2,6 +2,8 @@
 
 ## 📷 Demonstração
 
+<img src="./src/assts/demo.jpg" />
+
 !.[.jpg].(./src/assets/demo.jpg)
 
 !.[.jpg].(./src/assets/demo1.jpg)
